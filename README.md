@@ -77,7 +77,7 @@ Berikut adalah widget utama yang digunakan dalam pengembangan aplikasi ini:
 
 - Flutter (Stable)
 - Dart
-- Android Emulator / Chrome
+- Android Studio / Chrome
 
 ---
 
@@ -100,22 +100,26 @@ Aplikasi ini dibuat untuk memenuhi persyaratan tugas Mini Project dengan ketentu
 
 ---
 
----
 ## 📷 Dokumentasi Program
 
 ### Tampilan Home Page
 
 <img width="476" height="1075" alt="image" src="https://github.com/user-attachments/assets/19913065-af64-48e9-9b48-e99602f06b9c" />
 
+---
 
 ### Tampilan Tambah Kebiasaan
 
 <img width="476" height="1075" alt="image" src="https://github.com/user-attachments/assets/a8c848e7-c613-4358-b6d5-62fd12d49e3f" />
 
+
+---
+
 ### Tampilan Edit Kebiasaan
 
 <img width="476" height="1075" alt="image" src="https://github.com/user-attachments/assets/3f7edf4c-4e1d-42bf-85bc-4db68d7420c2" />
 
+---
 
 ### Tampialn Home Page setelah menambah Kebiasaan
 
