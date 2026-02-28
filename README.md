@@ -19,7 +19,7 @@ Aplikasi ini memiliki fitur sebagai berikut:
 ### 1️⃣ Create (Tambah Data)
 Pengguna dapat menambahkan kebiasaan baru dengan mengisi:
 - Nama Kebiasaan
-- Description / Motivation
+- Deskripsi
 - Kategori
 
 ### 2️⃣ Read (Tampilkan Data)
@@ -82,6 +82,9 @@ Berikut adalah widget utama yang digunakan dalam pengembangan aplikasi ini:
 ---
 
 ## 📂 Struktur Folder
+
+<img width="297" height="257" alt="image" src="https://github.com/user-attachments/assets/78556de4-5057-44ce-a06c-7ffe455e5a06" />
+
 
 
 ---
