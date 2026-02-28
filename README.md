@@ -53,23 +53,60 @@ Aplikasi menggunakan navigasi antar halaman:
 
 Berikut adalah widget utama yang digunakan dalam pengembangan aplikasi ini:
 
-- `MaterialApp`
-- `Scaffold`
-- `AppBar`
-- `ListView.builder`
-- `Card`
-- `Container`
-- `Text`
-- `TextField`
-- `ElevatedButton`
-- `FloatingActionButton`
-- `Checkbox`
-- `IconButton`
-- `Wrap`
-- `GestureDetector`
-- `Navigator`
-- `LinearProgressIndicator`
-- `SingleChildScrollView`
+## 🧩 Penjelasan Widget yang Digunakan
+
+Berikut adalah fungsi masing-masing widget yang digunakan dalam aplikasi Daily Habit Tracker:
+
+- `MaterialApp`  
+  Digunakan sebagai root aplikasi untuk mengatur tema, title, dan navigasi utama aplikasi.
+
+- `Scaffold`  
+  Menyediakan struktur dasar halaman seperti AppBar, body, dan FloatingActionButton.
+
+- `AppBar`  
+  Menampilkan judul halaman serta tombol navigasi seperti back, close, dan delete.
+
+- `ListView.builder`  
+  Digunakan untuk menampilkan daftar habit secara dinamis berdasarkan jumlah data yang ada.
+
+- `Card`  
+  Menampilkan setiap habit dalam bentuk tampilan kartu agar terlihat rapi dan terpisah.
+
+- `Container`  
+  Digunakan untuk mengatur layout, padding, warna, dan dekorasi seperti border radius.
+
+- `Text`  
+  Menampilkan teks seperti judul habit, kategori, dan label section.
+
+- `TextField`  
+  Digunakan untuk input data habit (nama kebiasaan, deskripsi, dan kategori).
+
+- `ElevatedButton`  
+  Tombol aksi utama seperti "Save Habit" dan "Update Habit".
+
+- `FloatingActionButton`  
+  Tombol tambah habit yang berada di halaman utama.
+
+- `Checkbox`  
+  Menandai apakah habit sudah selesai atau belum.
+
+- `IconButton`  
+  Digunakan untuk tombol edit dan delete pada setiap habit.
+
+- `Wrap`  
+  Mengatur layout kategori agar bisa tersusun rapi dan responsif dalam beberapa baris.
+
+- `GestureDetector`  
+  Digunakan untuk mendeteksi interaksi tap pada kategori yang dipilih.
+
+- `Navigator`  
+  Mengatur perpindahan halaman antar Home, Add Habit, dan Edit Habit.
+
+- `LinearProgressIndicator`  
+  Menampilkan progress penyelesaian habit dalam bentuk progress bar.
+
+- `SingleChildScrollView`  
+  Memungkinkan halaman form (Add/Edit Habit) dapat di-scroll ketika konten melebihi ukuran layar.
 
 ---
 
